@@ -1,5 +1,4 @@
 import React from 'react';
-import { motion } from 'framer-motion';
 import { Calendar, Users, Phone, User, MessageSquare, PartyPopper } from 'lucide-react';
 
 const BookingForm: React.FC = () => {
