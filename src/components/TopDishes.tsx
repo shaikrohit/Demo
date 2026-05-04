@@ -5,7 +5,7 @@ import { Flame } from 'lucide-react';
 const TopDishes: React.FC = () => {
   const trending = [
     { name: 'Mutton Dum Biryani', orders: '120+ ordered today', image: '/images/biryani.png' },
-    { name: 'Dragon Chicken', orders: '85+ ordered today', image: 'https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&q=80&w=800' },
+    { name: 'Special Chicken Biryani', orders: '85+ ordered today', image: '/images/hero-bg.png' },
     { name: 'Virgin Mojito', orders: '50+ ordered today', image: 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&q=80&w=800' },
   ];
 

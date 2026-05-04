@@ -12,11 +12,11 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-20 lg:gap-16 mb-24">
           <div className="lg:col-span-1">
             <div className="text-3xl font-black mb-10 tracking-tighter">
-              <span className="text-white">Di</span>
-              <span className="text-primary-yellow">Table9</span>
+              <span className="text-white">Cravings</span>
+              <span className="text-primary-yellow">Kitchen</span>
             </div>
             <p className="text-base leading-relaxed mb-12 text-white/40 font-medium max-w-xs">
-              Tirupati's premier destination for multi-cuisine excellence and luxury night ambience. Creating memories through taste since 2014.
+              The ultimate destination for authentic Hyderabadi Biryani and Nizami flavors. Bringing the royal taste of Hyderabad to your plate.
             </p>
             <div className="flex gap-5">
               {[Camera, Share2, MessageSquare, Play].map((Icon, i) => (
@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center pt-16 border-t border-white/5 gap-10">
           <p className="text-[10px] font-black uppercase tracking-[0.3em] text-white/20 text-center md:text-left leading-loose">
-            © 2026 Di Table9 Restaurant. Crafted for Tirupati's Finest.
+            © 2026 Cravings Kitchen Hyderabadi Biryani. All Rights Reserved.
           </p>
           <button 
             onClick={scrollToTop}

@@ -6,7 +6,7 @@ const Reviews: React.FC = () => {
   const reviews = [
     { name: 'Rahul Sharma', rating: 5, text: 'The best Biryani I have ever had in Tirupati. The ambience is truly premium and perfect for family dinners.', date: '2 days ago' },
     { name: 'Priya Reddy', rating: 4, text: 'Great place with amazing service. The staff is very polite and the neon theme looks fantastic at night.', date: '1 week ago' },
-    { name: 'Anil Kumar', rating: 5, text: 'Table9 is my go-to place for birthday celebrations. Their Tandoori platter is a must-try!', date: '3 days ago' },
+    { name: 'Anil Kumar', rating: 5, text: 'Cravings Kitchen is my go-to place for birthday celebrations. Their Dum Biryani is a must-try!', date: '3 days ago' },
     { name: 'Sneha Rao', rating: 5, text: 'Very hygienic and well-maintained. The lighting creates a very warm and inviting atmosphere.', date: '2 weeks ago' },
   ];
 

@@ -13,7 +13,7 @@ const BookingForm: React.FC = () => {
                 <PartyPopper size={16} />
                 Special Celebrations
               </span>
-              <h2 className="text-left text-white mb-8 leading-[1.1]">Reserve Your Experience at Table9</h2>
+              <h2 className="text-left text-white mb-8 leading-[1.1]">Reserve Your Experience at Cravings Kitchen</h2>
               <p className="mb-12 text-lg md:text-xl leading-relaxed text-white/60">
                 Planning a special celebration or a family reunion? Secure your spot now and let our chefs create a custom memory for you.
               </p>

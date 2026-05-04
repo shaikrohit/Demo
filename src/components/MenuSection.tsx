@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const MenuSection: React.FC = () => {
-  const categories = ['Starters', 'Biryani', 'Main Course', 'Beverages'];
-  const [activeCategory, setActiveCategory] = useState('Starters');
+  const categories = ['Biryani', 'Starters', 'Main Course', 'Beverages'];
+  const [activeCategory, setActiveCategory] = useState('Biryani');
 
   const menuItems: Record<string, any[]> = {
     'Starters': [

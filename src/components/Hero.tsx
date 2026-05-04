@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src="/images/hero-bg.png" 
-          alt="Di Table9 Restaurant Exterior" 
+          alt="Cravings Kitchen Exterior" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-dark/95 via-dark/40 to-dark" />
@@ -28,16 +28,16 @@ const Hero: React.FC = () => {
             transition={{ delay: 0.5 }}
             className="px-6 py-2 rounded-full bg-primary-blue/10 text-primary-blue text-[10px] font-black uppercase tracking-[0.5em] mb-12 border border-primary-blue/20 backdrop-blur-md"
           >
-            Fine Dining in Tirupati
+            Hyderabadi Biryani Experts
           </motion.div>
           
           <h1 className="mb-10 text-glow-yellow">
-            Di <span className="text-primary-yellow">Table9</span> <br />
-            Restaurant
+            Cravings <span className="text-primary-yellow">Kitchen</span> <br />
+            Hyderabadi Biryani
           </h1>
           
           <p className="text-lg md:text-xl text-white/60 mb-16 max-w-2xl leading-relaxed">
-            Experience the perfect synergy of luxury ambience and authentic multi-cuisine delicacies. A treat for your senses and soul.
+            Indulge in the authentic taste of Nizami traditions. We serve the most flavorful and aromatic Hyderabadi Biryani in town.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 w-full sm:w-auto">

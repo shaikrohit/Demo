@@ -10,7 +10,7 @@ const Location: React.FC = () => {
           <div className="flex flex-col lg:flex-row">
             <div className="lg:w-1/2 p-10 md:p-16 lg:p-20">
               <span className="text-[10px] text-primary-blue font-black uppercase tracking-[0.5em] mb-6 block">Visit Us</span>
-              <h2 className="text-left text-white mb-16 leading-[1.1]">The Culinary Heart of Tirupati</h2>
+              <h2 className="text-left text-white mb-16 leading-[1.1]">The Home of Authentic Biryani</h2>
               
               <div className="space-y-12">
                 <div className="flex gap-8 items-start group">
@@ -41,7 +41,7 @@ const Location: React.FC = () => {
                   <div>
                     <h4 className="text-xs font-black uppercase tracking-[0.3em] text-white mb-3">Direct Contact</h4>
                     <p className="text-xl md:text-2xl font-black text-white mb-1">+91 12345 67890</p>
-                    <p className="text-xs text-white/20 font-black uppercase tracking-widest">info@ditable9.com</p>
+                    <p className="text-xs text-white/20 font-black uppercase tracking-widest">info@cravingskitchen.com</p>
                   </div>
                 </div>
 

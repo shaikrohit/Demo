@@ -34,8 +34,8 @@ const Header: React.FC = () => {
             animate={{ opacity: 1, x: 0 }}
             className="text-2xl md:text-3xl font-black tracking-tighter flex items-center gap-1 z-[110]"
           >
-            <span className="text-white">Di</span>
-            <span className="text-primary-yellow text-glow-yellow">Table9</span>
+            <span className="text-white">Cravings</span>
+            <span className="text-primary-yellow text-glow-yellow">Kitchen</span>
           </motion.a>
 
           {/* Desktop Nav */}

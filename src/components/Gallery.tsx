@@ -16,7 +16,7 @@ const Gallery: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-12">
         <div className="text-center mb-16 md:mb-24">
           <span className="text-[10px] text-primary-yellow font-black uppercase tracking-[0.6em] mb-4 block">Visual Journey</span>
-          <h2 className="text-white">A Glimpse into Table9</h2>
+          <h2 className="text-white">A Glimpse into Cravings Kitchen</h2>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 auto-rows-[250px] md:auto-rows-[300px]">

@@ -4,9 +4,9 @@ import { Users, Utensils, Star, ShieldCheck } from 'lucide-react';
 
 const About: React.FC = () => {
   const features = [
-    { icon: <Users size={24} />, title: 'Family Friendly', desc: 'Spacious for all' },
-    { icon: <Utensils size={24} />, title: 'Multi-Cuisine', desc: '50+ authentic dishes' },
-    { icon: <Star size={24} />, title: 'Premium Quality', desc: 'Top-tier ingredients' },
+    { icon: <Users size={24} />, title: 'Authentic Taste', desc: 'True Hyderabadi flavors' },
+    { icon: <Utensils size={24} />, title: 'Special Biryani', desc: 'Nizami recipe' },
+    { icon: <Star size={24} />, title: 'Premium Spices', desc: 'Handpicked ingredients' },
     { icon: <ShieldCheck size={24} />, title: 'Safe & Hygienic', desc: 'Sanitized kitchen' },
   ];
 
@@ -21,7 +21,7 @@ const About: React.FC = () => {
             className="lg:col-span-5 relative"
           >
             <div className="relative rounded-[48px] overflow-hidden border border-white/5 shadow-2xl">
-              <img src="/images/interior.png" alt="Di Table9 Ambience" className="w-full aspect-[4/5] object-cover" />
+              <img src="/images/interior.png" alt="Cravings Kitchen Ambience" className="w-full aspect-[4/5] object-cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-dark/60 to-transparent" />
             </div>
             {/* Experience Badge */}
@@ -46,7 +46,7 @@ const About: React.FC = () => {
             <span className="text-[10px] text-primary-blue font-black uppercase tracking-[0.5em] mb-6 block">Our Story</span>
             <h2 className="mb-10 text-white">A Legacy of Taste and Luxury Ambience</h2>
             <p className="mb-8 text-lg md:text-xl leading-relaxed text-white/80">
-              Established with a passion for authentic flavors, Di Table9 has become Tirupati's landmark for premium dining. We bring together traditional recipes and modern culinary techniques to create a menu that speaks to the soul.
+              Established with a passion for authentic flavors, Cravings Kitchen has become the destination for premium Hyderabadi Biryani. We bring together traditional Nizami recipes and modern culinary techniques to create a menu that speaks to the soul.
             </p>
             <p className="mb-14 text-base md:text-lg leading-relaxed text-white/40 font-medium">
               Our restaurant is designed to offer a tranquil escape from the bustling city, with dim lighting, neon accents, and a warm atmosphere perfect for family gatherings and celebrations.
